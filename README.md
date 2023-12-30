@@ -18,14 +18,14 @@ If you're using the APIs you need your own API key.
 `config.json`
 ```json
 {
-    "palm_token": "your api key",
+    "gemini_token": "your api key",
     "gpt_token": "your api key"
 }
 ```
 
-## Get your PaLM token
+## Get your Gemini token
 
-- Go to https://developers.generativeai.google/products/palm and click "Get your API key"
+- Go to https://makersuite.google.com/app/apikey and click "Get your API key"
 <img src=".\assets\setup_imgs\palm\step1.png" alt="step 1">
 
 - If you're signed into a google account you'll be taken to this page (If you're not signed in, simply sign in and you'll be taken here). Click Create API key.
